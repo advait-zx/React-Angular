@@ -1,0 +1,5 @@
+for angular we will need node.js installed in system
+ run this command in vs code terminal to create angular app
+"ng new my-app"
+this will create app called my app in your folder to run this app 
+use "ng serve" command 
